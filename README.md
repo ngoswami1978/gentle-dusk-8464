@@ -24,6 +24,6 @@ For more information about using PHP on Heroku, see these Dev Center articles:
 -
 Online Service URL
 ------------------------------------------------------------------
-https://gentle-dusk-8464.herokuapp.com/PushNotificationPHP.php
-https://gentle-dusk-8464.herokuapp.com/PushNotificationPHP1.php
+1. https://gentle-dusk-8464.herokuapp.com/PushNotificationPHP.php
+2. https://gentle-dusk-8464.herokuapp.com/PushNotificationPHP1.php
 
